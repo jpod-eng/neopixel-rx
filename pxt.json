@@ -7,7 +7,9 @@
         "microphone": "*",
         "servo": "*",
         "wuKong": "github:elecfreaks/pxt-wukong#v1.6.1",
-        "datalogger": "*"
+        "datalogger": "*",
+        "pxt-sonar": "github:microsoft/pxt-sonar#v0.0.6",
+        "sonarbit": "github:elecfreaks/pxt-sonarbit#v1.0.9"
     },
     "files": [
         "main.blocks",
